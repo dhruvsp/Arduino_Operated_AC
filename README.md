@@ -11,7 +11,9 @@ It comprises  of
                4. receiver, 
                5. drier, and 
                6. expansion valve. 
-It works on VCR system with refrigerant R600A + R290. 
+It works on VCR system with refrigerant R600A + R290.
+
+Temperature Sensors: · [18B20 temperature sensor](https://www.adafruit.com/product/381)
 
 The air conditioning model is connected to the computer system through Arduino UNO circuit to sense and control physical parameters. 
 
