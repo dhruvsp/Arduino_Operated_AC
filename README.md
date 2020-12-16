@@ -1,5 +1,5 @@
 ## Summary of Project
-Visit https://link.springer.com/chapter/10.1007%2F978-981-13-6577-5_26 for detail summary of project.
+Visit https://link.springer.com/chapter/10.1007%2F978-981-13-6577-5_26 for detailed summary of project.
 
 This code represnt the extartcion o ftemperature of the air conditioning system of Maruti Suzuki Wagon-R car.
 
