@@ -15,7 +15,7 @@ It works on VCR system with refrigerant R600A + R290.
 
 The air conditioning model is connected to the computer system through Arduino UNO circuit to sense and control physical parameters. 
 
-The purpose of establishing this connection is to perform the automatic turning on/off the system(Relay Switch) and to obtain the temperature readings from the sensors attached to the components of the model(Extract Temperature). 
+The purpose of establishing this connection is to perform the automatic turning on/off the system(Code:[Relay Switch](https://github.com/dhruvsp/Arduino_Operated_AC/blob/main/Relay_Switch.cpp)) and to obtain the temperature readings from the sensors attached to the components of the model(Code: [Extract Temperature](https://github.com/dhruvsp/Arduino_Operated_AC/blob/main/Extratc_temp.cpp)). 
 
 These readings are then transferred to MS Excel software with the help of PLX-DAQ software, where various thermodynamic calculations are performed. From the obtained results, it is found that the theoretical value of cop is twice that of actual values of COP. 
-  
+ 
